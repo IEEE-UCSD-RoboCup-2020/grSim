@@ -1,6 +1,6 @@
 This is the **Tritons**' fork of ***grSim***. For the original version of the README.md please go [HERE](https://github.com/RoboCup-SSL/grSim) 
 
-This fork of ***grSim*** cd
+This fork of ***grSim*** corresponds to commit # 0881829 from the original repo. The newest versions of grSim in the original repo have bugs, so stick to this for now.
 
 ***grSim*** is only supported on Mac OS and Linux.
 
